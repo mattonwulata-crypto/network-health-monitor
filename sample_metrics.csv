@@ -1,0 +1,6 @@
+site_id,latency_ms,packet_loss_pct,uptime_pct
+PHL-01,45,0.3,99.9
+PHL-01,52,0.5,99.8
+PHL-02,160,3.4,97.5
+PHL-02,145,2.8,98.0
+NJ-03,75,0.7,99.5
